@@ -1,0 +1,15 @@
+{
+  "name": "offtopdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "libreoffice-convert": "^1.4.1"
+  }
+}
